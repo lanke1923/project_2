@@ -41,10 +41,11 @@ This project explores a healthcare dataset I obtained from Kaggle, and analysed 
 We used several SQL queries to extract relevant information from the dataset. Some of the key queries include:
 - SELECT statements to retrieve specific columns.
 - Aggregation functions (e.g., AVG, COUNT) to summarize data.
-- JOIN operations to combine relat
+- JOIN operations to combine related
 - GROUP BY and ORDER BY
 - Employed use of CTEs and Subqueries among other manipulations of SQL queries
   
-This project is my first independent deepdive with SQL, and I am looking forward to creating better data stories with time. Cheers!
+##
+- This project is my first independent deepdive with SQL, and I am looking forward to creating better data stories with time. Cheers!
 - 
 
