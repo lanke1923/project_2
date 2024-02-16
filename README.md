@@ -45,6 +45,6 @@ We used several SQL queries to extract relevant information from the dataset. So
 - GROUP BY and ORDER BY
 - Employed use of CTEs and Subqueries among other manipulations of SQL queries
   
-## Results and Insights
+This project is my first independent deepdive with SQL, and I am looking forward to creating better data stories with time. Cheers!
 - 
 
